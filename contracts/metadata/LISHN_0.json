@@ -1,0 +1,27 @@
+{
+    "name": "LISHN #00",
+    "description": "Carpe-Zen",
+    "image": "https://ipfs.io/ipfs/QmZKF9vjwp5qbadZwNzza2sJrAnxiQkoacY6FEG26e6SGu",
+    "attributes": [{
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Imagery",
+            "value": "White and Yellow Lotus"
+        },
+        {
+            "trait_type": "Quote",
+            "value": "You Yourself"
+        },
+        {
+            "trait_type": "Incense holder",
+            "value": "Empty"
+        },
+        {
+            "trait_type": "Incense Position",
+            "value": "Bottom"
+        }
+
+    ]
+}

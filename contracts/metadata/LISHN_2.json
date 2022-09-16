@@ -1,0 +1,27 @@
+{
+    "name": "LISHN #02",
+    "description": "Carpe-Zen",
+    "image": "https://ipfs.io/ipfs/QmdQCF6xUNa4RDQRcyBNRPgXQUcZdWQfSwgqgpJedNX47Z",
+    "attributes": [{
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Imagery",
+            "value": "Buddah"
+        },
+        {
+            "trait_type": "Quote",
+            "value": "Thanks for What"
+        },
+        {
+            "trait_type": "Incense holder",
+            "value": "Burning"
+        },
+        {
+            "trait_type": "Incense Position",
+            "value": "Bottom"
+        }
+
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "LISHN #03",
+    "description": "Carpe-Zen",
+    "image": "https://ipfs.io/ipfs/QmNZ5L1Coyn7Kw2y392B8b22cbJ7kJ7YEDMYPeYgMqWgwZ",
+    "attributes": [{
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Imagery",
+            "value": "Purple and Yellow Lotus"
+        },
+        {
+            "trait_type": "Quote",
+            "value": "All That We are"
+        },
+        {
+            "trait_type": "Incense holder",
+            "value": "Burning"
+        },
+        {
+            "trait_type": "Incense Position",
+            "value": "Bottom"
+        }
+
+    ]
+}

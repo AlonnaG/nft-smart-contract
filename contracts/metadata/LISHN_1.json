@@ -1,0 +1,27 @@
+{
+    "name": "LISHN #01",
+    "description": "Carpe-Zen",
+    "image": "https://ipfs.io/ipfs/QmfCvsZdsYprGMCzMmaC1Vj8TyLwJm167hcFEvAp4A6Nf3",
+    "attributes": [{
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Imagery",
+            "value": "Bells"
+        },
+        {
+            "trait_type": "Quote",
+            "value": "Real Failure in Life"
+        },
+        {
+            "trait_type": "Incense holder",
+            "value": "Burning"
+        },
+        {
+            "trait_type": "Incense Position",
+            "value": "Bottom"
+        }
+
+    ]
+}
